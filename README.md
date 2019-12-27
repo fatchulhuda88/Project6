@@ -1,4 +1,4 @@
-# .:Package & Module:.
+# <p align="center">.:Package & Module:.<p>
 
 1.main.py berisi program utama untuk memanggil semua module yang ada
 
