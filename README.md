@@ -14,16 +14,28 @@ cetak daftar nilai
 cetak hasil pencarian
 4 input_nilai.py berisi modul untuk meminta user menginputkan data
 
+
 menambahkan:
+
 ![](gambar/add.png)
+
 list:
+
 ![](gambar/list.png)
+
 mencari:
+
 ![](gambar/cari.png)
+
 mengedit:
+
 ![](gambar/edit.png)
-menghapus
+
+menghapus:
+
 ![](gambar/hapus.png)
-keluar
+
+keluar:
+
 ![](gambar/keluar.png)
 
